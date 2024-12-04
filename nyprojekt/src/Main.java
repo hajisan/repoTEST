@@ -9,10 +9,14 @@ public class Main {
             System.out.println("DANS" + Andreas.abe);
         }
         createJoakim();
+
+        System.out.println("Jeg tester lige om denne branch, automatisk bliver closed når jeg er done med den");
     }
 
     public static void createJoakim() {
         Joakim joakim = new Joakim();
         System.out.println("Mit navn er " + joakim.getName());
     }
+
+
 }
