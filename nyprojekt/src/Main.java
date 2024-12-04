@@ -5,5 +5,11 @@ public class Main {
         if (Andreas.er == 0){
             System.out.println("DANS" + Andreas.abe);
         }
+        createJoakim();
+    }
+
+    public static void createJoakim() {
+        Joakim joakim = new Joakim();
+        System.out.println("Mit navn er " + joakim.getName());
     }
 }

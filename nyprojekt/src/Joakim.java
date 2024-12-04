@@ -6,4 +6,8 @@ public class Joakim {
         this.name = "Joakim";
         this.age = 25;
     }
+
+    public String getName() {
+        return name;
+    }
 }
