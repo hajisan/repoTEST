@@ -11,6 +11,7 @@ public class Main {
         createJoakim();
 
         System.out.println("Jeg tester lige om denne branch, automatisk bliver closed når jeg er done med den");
+        System.out.println("Vi prøver igen...");
     }
 
     public static void createJoakim() {
