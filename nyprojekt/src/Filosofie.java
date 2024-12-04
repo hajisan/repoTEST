@@ -1,0 +1,2 @@
+public class Filosofie {
+}
