@@ -13,6 +13,7 @@ public class Main {
         System.out.println("Jeg tester lige om denne branch, automatisk bliver closed når jeg er done med den");
         System.out.println("Vi prøver igen...");
         System.out.println("Ny test");
+        System.out.println("Ny test for fanden");
     }
 
     public static void createJoakim() {
