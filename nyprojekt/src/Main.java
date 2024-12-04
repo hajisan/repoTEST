@@ -14,6 +14,5 @@ public class Main {
     public static void createJoakim() {
         Joakim joakim = new Joakim();
         System.out.println("Mit navn er " + joakim.getName());
- development
     }
 }
