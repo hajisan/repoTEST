@@ -1,5 +1,5 @@
 public class Andreas {
 
-    String abe;
-    int er = 0;
+    static String abe = "Hyygefis";
+    static int er = 0;
 }
